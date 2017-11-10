@@ -20,8 +20,8 @@ import com.whyles.explore.fragmentsamples.R;
  * create an instance of this fragment.
  */
 public class LifecycleFragment extends Fragment {
+
     // TODO: Rename parameter arguments, choose names that match
-    // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
     private static final String ARG_PARAM1 = "param1";
     private static final String ARG_PARAM2 = "param2";
 
@@ -53,6 +53,11 @@ public class LifecycleFragment extends Fragment {
         return fragment;
     }
 
+
+    /**
+     * fragment 绑定到 activity 调用
+     * @param context
+     */
     @Override
     public void onAttach(Context context) {
         super.onAttach(context);
