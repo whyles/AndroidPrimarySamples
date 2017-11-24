@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/fragmentsamples" />
+            <option value="$PROJECT_DIR$/intentsamples" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

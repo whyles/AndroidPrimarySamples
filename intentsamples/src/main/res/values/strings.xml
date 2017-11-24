@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">IntentSamples</string>
+
+    <!-- navigation -->
+
+    <string name="common_intent"> Common Intent </string>
+
+    <!-- common intent -->
+
+    <string name="alarm_clock">闹钟</string>
+    <string name="alarm_clock_create_an_alarm">创建闹钟</string>
+    <string name="alarm_clock_create_a_timer">创建计时器</string>
+    <string name="alarm_clock_show_all_alarms">显示所有闹钟</string>
+
+    <string name="calendar">日历</string>
+    <string name="calendar_add_event">添加日历事件</string>
+
+    <string name="camera">相机</string>
+    <string name="camera_capture_a_picture">拍摄照片</string>
+    <string name="camera_capture_a_video">录制视频</string>
+    <string name="camera_with_image">相册</string>
+    <string name="camera_with_video">视频库</string>
+
+    <string name="contacts">通讯录</string>
+
+    <string name="email">邮件</string>
+
+    <string name="file_storage">文件存储</string>
+
+    <string name="local_action">本地操作</string>
+
+    <string name="maps">地图</string>
+
+    <string name="music_or_video">音乐或视频</string>
+
+    <string name="new_note">新笔记</string>
+
+    <string name="phone">电话</string>
+
+    <string name="search">搜索</string>
+
+    <string name="settings">设置</string>
+
+    <string name="text_messaging">发送短信</string>
+
+    <string name="web_browser">网络浏览器</string>
+
+</resources>

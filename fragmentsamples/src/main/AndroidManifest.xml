@@ -16,12 +16,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".activity.BasicsActivity" />
-        <activity android:name=".activity.FromXmlActivity" />
-        <activity android:name=".activity.FromCodeActivity" />
-        <activity android:name=".activity.NoUiFragmentActivity" />
-        <activity android:name=".activity.InstanceRegisterActivity" />
-        <activity android:name=".activity.InstanceTabSwitchActivity"></activity>
+        <activity android:name=".basics.BasicsActivity" />
+        <activity android:name=".StaticFragment.FromXmlActivity" />
+        <activity android:name=".DynamicFragment.FromCodeActivity" />
+        <activity android:name=".basics.NoUiFragmentActivity" />
+        <activity android:name=".instance.RegisterInstance.InstanceRegisterActivity" />
+        <activity android:name=".instance.TabSwitchInstance.InstanceTabSwitchActivity"></activity>
     </application>
 
 </manifest>

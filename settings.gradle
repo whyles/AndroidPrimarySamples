@@ -1,1 +1,1 @@
-include ':app', ':fragmentsamples'
+include ':app', ':fragmentsamples', ':intentsamples'
